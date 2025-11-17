@@ -1,8 +1,11 @@
 # Book Management REST API — Internship Task
 
--**Author:** Riya Rajkumar Vaishya
--**Date:** 15 November 2025
--**Tools Used:** Node.js, Express.js, Postman 
+
+**Author:** Riya Rajkumar Vaishya
+
+**Date:** 15 November 2025
+
+**Tools Used:** Node.js, Express.js, Postman 
 
 ---
 
